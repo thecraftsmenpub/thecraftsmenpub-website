@@ -4,7 +4,7 @@ defaultContentLanguage: en
 title: TheCraftsmen.Pub
 theme: cupper-hugo-theme
 googleAnalytics: UA-136958470-1
-disqusShortname: fenli
+disqusShortname: thecraftsmenpub
 
 taxonomies:
   tag: tags
