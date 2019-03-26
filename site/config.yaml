@@ -22,7 +22,7 @@ params:
     Copyright ‎©2019 TheCraftsmen.Pub<br/>
     This site is auto-generated from [GitHub Source](https://github.com/thecraftsmenpub/thecraftsmenpub-website) using [Hugo](https://gohugo.io/) with [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) theme.
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2001
+  dateFormat: Jan 2, 2006
   codePenUser: fenli
 
 menu:
