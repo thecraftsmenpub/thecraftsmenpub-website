@@ -1,0 +1,44 @@
+baseURL: https://thecraftsmen.pub
+languageCode: en-us
+defaultContentLanguage: en
+title: TheCraftsmen.Pub
+theme: cupper-hugo-theme
+googleAnalytics: UA-136958470-1
+disqusShortname: fenli
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: Practical use of Patterns and Principles for Software Craftsmanship.
+  homeMetaContent: Practical use of Patterns and Principles for Software Craftsmanship.
+  footer: |
+    Copyright ‎©2019 TheCraftsmen.Pub<br/>
+    This site is auto-generated from [GitHub Source](https://github.com/thecraftsmenpub/thecraftsmenpub-website) using [Hugo](https://gohugo.io/) with [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) theme.
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2000
+  codePenUser: fenli
+
+menu:
+  nav:
+    - name: Publication
+      url: /
+      weight: 1
+    - name: Presentation Pattern Series
+      url: /tags/presentation-pattern/
+      weight: 2
+    - name: Stories
+      url: /post/
+      weight: 3
+    - name: Tags
+      url: /tags/
+      weight: 4
+    - name: Rss
+      url: /index.xml
+      weight: 5
